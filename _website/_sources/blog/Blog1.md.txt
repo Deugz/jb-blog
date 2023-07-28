@@ -1,0 +1,7 @@
+---
+tags: earth, love, peace
+category: python
+author: me
+---
+
+# Blog 1

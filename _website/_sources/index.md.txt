@@ -1,0 +1,46 @@
+---
+html_theme.sidebar_secondary.remove: true
+---
+
+# Welcome - Bienvenue 
+
+```{epigraph}
+
+I'm an Astrochemyst researcher, enthusiast but amateur web developper, and a fervent advocate of Open Science
+
+```
+
+::::{grid}
+
+:::{grid-item}
+:columns: 8
+
+> This blog is ...
+
+
+:::
+
+:::{grid-item-card}
+:columns: 4
+:link: blog
+All Posts ✍️
+:::
+::::
+
+## Recent blog posts
+
+```{postlist}
+:date: "%Y-%m-%d"
+:format: "{title} - {date} - {tags}"
+:excerpts:
+```
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+about
+projects
+publications
+talks
+blog
+```

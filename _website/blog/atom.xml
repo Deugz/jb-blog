@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://chrisholdgraf.com</id>
+  <title>Chris Holdgraf</title>
+  <updated>2023-06-08T17:04:28.994162+00:00</updated>
+  <link href="https://chrisholdgraf.com"/>
+  <link href="https://chrisholdgraf.com/blog/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.4.post1">ABlog</generator>
+  <subtitle>Open communities, open science, communication, and data.</subtitle>
+  <entry>
+    <id>https://chrisholdgraf.com/blog/2023/Blog2/</id>
+    <title>Blog 2</title>
+    <updated>2023-06-08T00:00:00+02:00</updated>
+    <author>
+      <name>Vincent Deguin</name>
+    </author>
+    <content type="html">&lt;section id="blog-2"&gt;
+
+&lt;p&gt;What is there to say here ?&lt;/p&gt;
+&lt;/section&gt;
+</content>
+    <link href="https://chrisholdgraf.com/blog/2023/Blog2/" rel="alternate"/>
+    <summary>What is there to say here ?</summary>
+    <category term=""/>
+    <category term="scientificpublishing" label="scientific publishing"/>
+    <published>2023-06-08T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://chrisholdgraf.com/blog/2023/Blog3/</id>
+    <title>Blog 3</title>
+    <updated>2023-03-12T00:00:00+01:00</updated>
+    <author>
+      <name>Vincent Deguin</name>
+    </author>
+    <content type="html">&lt;section id="blog-3"&gt;
+
+&lt;p&gt;What is there to say here ?&lt;/p&gt;
+&lt;/section&gt;
+</content>
+    <link href="https://chrisholdgraf.com/blog/2023/Blog3/" rel="alternate"/>
+    <summary>What is there to say here ?</summary>
+    <category term="volupté" label="volupté"/>
+    <published>2023-03-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://chrisholdgraf.com/blog/2023/Blog1/</id>
+    <title>Blog 1</title>
+    <updated>2023-03-06T00:00:00+01:00</updated>
+    <author>
+      <name>me</name>
+    </author>
+    <content type="html">&lt;section id="blog-1"&gt;
+
+&lt;p&gt;What is there to say here ?&lt;/p&gt;
+&lt;/section&gt;
+</content>
+    <link href="https://chrisholdgraf.com/blog/2023/Blog1/" rel="alternate"/>
+    <summary>What is there to say here ?</summary>
+    <category term="earth" label="earth"/>
+    <category term="love" label="love"/>
+    <category term="peace" label="peace"/>
+    <published>2023-03-06T00:00:00+01:00</published>
+  </entry>
+</feed>
